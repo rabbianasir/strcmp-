@@ -1,0 +1,2 @@
+# strcmp-
+string compare function
